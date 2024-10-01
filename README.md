@@ -27,6 +27,13 @@ Junte-se ao nosso ecossistema e evolua na sua carreira! 💼 A DIO oferece uma p
 - **HTML5** 
 - **CSS3**
 
+## ▶ LIVE
+
+[Uploadin[InternetShortcut]
+URL=https://dio-desafoio-css-1.vercel.app/
+g Trilha de CSS - DIO.url…]()
+
+
 ## 📸 Captura de Tela
 
 ![Captura de tela do projeto](assets/images/CapturaDeTela.jpeg)
