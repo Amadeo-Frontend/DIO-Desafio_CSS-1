@@ -29,7 +29,7 @@ Junte-se ao nosso ecossistema e evolua na sua carreira! 💼 A DIO oferece uma p
 
 ## ▶ LIVE
 
-(https://dio-desafoio-css-1.vercel.app/)
+<a href="https://dio-desafoio-css-1.vercel.app/">Clique Aqui</a>
 
 
 ## 📸 Captura de Tela
