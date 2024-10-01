@@ -27,6 +27,10 @@ Junte-se ao nosso ecossistema e evolua na sua carreira! 💼 A DIO oferece uma p
 - **HTML5** 
 - **CSS3**
 
+## 📸 Captura de Tela
+
+![Captura de tela do projeto](assets/images/CapturaDeTela.jpeg)
+
 ## Como Executar o Projeto Localmente 🖥️
 
 Para executar o projeto localmente, siga estas etapas:
